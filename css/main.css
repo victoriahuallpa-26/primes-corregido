@@ -133,6 +133,14 @@ h1{
 	color:white;
 	 padding-top:10px;
 }
+.boton-4{
+    margin-top:40px;
+	text-align:center;
+    width:100px;
+    height:40px;
+    margin:0 auto;
+    background-color:blue;
+}
 .boton-2 p{
 	   font-size:20px;
 	   padding-top:10px;
@@ -199,6 +207,7 @@ height:100px;
 	background:url(../img/background/contactus.jpg);
 	width:100%;
 	height:800px;
+	font-size:cover;
 }
 .parrafo-grande{
     font-size:15px;
@@ -321,8 +330,32 @@ background-color:blue;
 	margin:0 auto;
 	margin-top:70px;
 }
+input{
+	display:block;
+	width:500px;
+	height:50px;
+	margin-bottom:30px;
+	opacity:0.1;
+}
+#valor{
+	color:white;
+}
+textarea{
+	width:500px;
+	opacity:0.1;
 
-
+}
+.icono-blanco{
+	color:white;
+}
+.iconos{
+	color:grey;
+	font-size:25px;
+}
+.redes-sociales{
+	width:200px;
+	margin:0 auto;
+}
 
 
 
