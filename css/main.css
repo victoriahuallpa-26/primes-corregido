@@ -7,7 +7,7 @@
 	margin-right:4px;
 }
 .icono{
-  color:blue;
+  color:#00BFFF;
   font-size:35px;
   }
  .caja-icono{
@@ -56,7 +56,7 @@ h1{
 .contenedor-3{
 	width:100%;
 	height:450px;
-	background-color:grey;
+	background-color:#E6E6E6;
 
 }
 .contenedor-4{
@@ -80,7 +80,7 @@ h1{
 	text-decoration:none;
 }
 .lista li a:hover{
-	color:blue;
+   color:#00BFFF;
 }
 .titulo{
 	font-size:40px;
@@ -98,7 +98,7 @@ h1{
     height:50px;
     position:relative;
     left:350px;
-    background-color:grey;
+    background-color:#424242;
 }
 .col-md-6 a{
 	text-decoration:none;
@@ -126,7 +126,8 @@ h1{
     height:40px;
     position:relative;
     margin:0 auto;
-    background-color:grey;
+    background-color:#424242;
+    
 }
 .boton-3 p{
 	text-decoration:none;
@@ -138,8 +139,14 @@ h1{
 	text-align:center;
     width:100px;
     height:40px;
-    margin:0 auto;
-    background-color:blue;
+    
+    background-color:#00BFFF;
+   
+}
+.boton-4 input{
+    height:40px;
+    width:100px;
+   
 }
 .boton-2 p{
 	   font-size:20px;
@@ -162,16 +169,16 @@ h1{
 .contenedor-5{
 	width:100%;
 	height:280px;
-	background-color:grey;
+	background-color:#E6E6E6;
 }
 .contenedor-5-chico{
 width:100%;
-background-color:grey;
+background-color:#E6E6E6;
 height:200px;
 }
 .contenedor-5-chico-1{
 width:100%;
-background-color:grey;
+background-color:#E6E6E6;
 height:100px;
 }
 
@@ -183,7 +190,7 @@ height:100px;
 }
 .contenedor-7{
 	width:100%;
-	background-color:grey;
+	background-color:#E6E6E6;
 	height:750px;
 } 
 .menu-3{
@@ -219,7 +226,7 @@ height:100px;
 	}
 .icono-mediano{
    font-size:20px;
-   color:blue;
+   color:#00BFFF;
 
 }
 .col-md-1{
@@ -270,7 +277,8 @@ background-color:blue;
     border:8px solid white;
 }
 .caja-color{
-	background-color:black;
+    left:350px;
+    background-color:#424242;
     width:300px;
     height:100px;
     margin-left:10px;
@@ -284,14 +292,14 @@ background-color:blue;
    padding-top:50px;
 }
 .azul{
-
- background-color:blue;
+  width:300px;
+ background-color:#00BFFF;
  height:100px;
  margin-left:10px;
 }
 .color-plomo{
-	background-color:grey;
-	width:300px;
+	background-color:#E6E6E6;
+    width:300px;
 	height:120px;
 	margin-left:10px;
 }
@@ -312,7 +320,7 @@ background-color:blue;
 
 }
 .plomo{
-	background-color:black;
+	background-color:#424242;
 	width:120px;
 	height:40px;
 	margin:0 auto;
@@ -351,12 +359,24 @@ textarea{
 .iconos{
 	color:grey;
 	font-size:25px;
+	margin:15px;
+	margin-top:50px;
 }
 .redes-sociales{
-	width:200px;
+	width:300px;
+	height:100px;
 	margin:0 auto;
+	padding-top:50px;
 }
-
+.contenedor-11{
+	width:100%;
+	background-color:#424242;
+}
+#texto-centrado{
+	color:grey;
+	padding-top:50px;
+	padding-bottom:10px;
+}
 
 
 
