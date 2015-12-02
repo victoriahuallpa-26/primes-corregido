@@ -248,11 +248,12 @@ height:100px;
 .lista-1 li a{
  text-decoration:none;
  color:black;
+ margin-top:20px;
 
 }	
 .lista-1 li a:hover{
-color:white;
-background-color:blue;
+
+
 }
 .col-md-12 h4{
   margin-top:100px;
