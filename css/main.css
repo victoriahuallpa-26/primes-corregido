@@ -1,5 +1,5 @@
 *{
- /*outline:solid red 1px;*/
+ outline:solid red 1px;
   margin:0px;
   padding:0px;
 }
@@ -17,6 +17,7 @@
  	margin-top:40px;
  	margin-bottom:20px;
  }
+
 p{
 	text-align:center;
 }
@@ -266,7 +267,7 @@ height:100px;
 	width:404px;
 	height:250px;
 	background-color:white;
-	border:1px solid grey;
+	border:1px solid #D8D8D8;
 	margin:0 auto;
 
 }
@@ -318,7 +319,7 @@ height:100px;
 	margin-left:10px;
 	text-align:center;
 	padding-top:15px;
-	border-bottom:1px solid grey;
+	border-bottom:1px solid #D8D8D8;
 
 }
 .plomo{
@@ -379,8 +380,12 @@ textarea{
 	padding-top:50px;
 	padding-bottom:10px;
 }
-
-
+#importante{
+	background-color:#00BFFF;
+	}
+#importante a{
+   color:white;
+}
 
 
 
